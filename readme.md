@@ -14,4 +14,8 @@ e- realizar un commit para aplicar los cambios con:
 f- luego para agregarlo a nuestro repositorio remoro hacemos: 'git push'
 
 
+Punto 3)
+g) Se debe a que la variable del tipo puntero declarada, tiene como valor, la direccion de memoria de la variable numeroEntero.
+En el punto 4 se obtiene la direccion de memoria en donde se encuentra almacenada la variable puntero, y el contenido de esa dirección será hacía a donde apunte ese puntero, es decir, la direccion de numeroEntero.
+
 
